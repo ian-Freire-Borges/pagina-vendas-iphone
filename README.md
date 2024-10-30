@@ -1,1 +1,6 @@
-# pagina-vendas-iphone
+### Descrição do Projeto: Página Interativa do iPhone 13 Pro
+Este projeto consiste em uma página web interativa dedicada ao iPhone 13 Pro, com o objetivo de proporcionar uma experiência visual dinâmica e envolvente aos usuários. A principal funcionalidade da página é a capacidade de selecionar diferentes cores do iPhone, permitindo que os visitantes vejam como o produto se apresenta em cada tonalidade. Os usuários podem clicar em um dos ícones de cores disponíveis—verde-albino, prateado, dourado, grafite e azul-sierra—e, ao fazer isso, a imagem do iPhone é automaticamente alterada para refletir a cor escolhida.
+
+Além da troca de imagem, a descrição correspondente à cor selecionada é atualizada dinamicamente, oferecendo informações sobre as características e a sensação que cada tonalidade transmite. A cor do texto da descrição também muda para combinar com a cor escolhida, criando uma estética coesa.
+
+Para aprimorar a experiência do usuário, a página conta com um efeito de transição suave durante a troca de imagens, garantindo que as mudanças não sejam abruptas. A responsividade do design permite que a página se adapte a diferentes tamanhos de tela, otimizando a navegação em dispositivos móveis, tablets e desktops. Além disso, todos os elementos interativos possuem atributos semânticos que melhoram a acessibilidade, facilitando a navegação para usuários com necessidades especiais.
